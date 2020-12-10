@@ -1,6 +1,6 @@
 {
   "name": "@rubenvara/react-star-rating",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple React component that shows a rating from 0 to 5 with svg stars when passed a number",
   "main": "dist/index.js",
   "keywords": [
