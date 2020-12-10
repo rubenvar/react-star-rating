@@ -9,7 +9,7 @@ A simple [React](https://reactjs.com/) component that shows a rating from 0 to 5
 As with any other node package in React, Gatsby, Next.js, etc.:
 
 ```bash
-npm install react-star-rating
+npm i @rubenvara/react-star-rating
 ```
 
 ## Usage
@@ -48,7 +48,7 @@ Use it as follows:
 #### Simple
 
 ```js
-import StarRating from 'react-star-rating';
+import StarRating from '@rubenvara/react-star-rating';
 
 // ...
 
@@ -64,7 +64,7 @@ Output:
 #### More advanced
 
 ```js
-import StarRating from 'react-star-rating';
+import StarRating from '@rubenvara/react-star-rating';
 
 // ...
 
