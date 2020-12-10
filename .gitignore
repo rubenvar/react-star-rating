@@ -1,0 +1,5 @@
+.vscode/
+.prettierrc
+.DS_Store
+node_modules/
+DOCS.md

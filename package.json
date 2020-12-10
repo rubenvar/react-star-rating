@@ -1,0 +1,41 @@
+{
+  "name": "react-star-rating",
+  "version": "1.0.0",
+  "description": "A simple React component that shows a rating from 0 to 5 with svg stars when passed a number",
+  "main": "dist/index.js",
+  "keywords": [
+    "react",
+    "component",
+    "rating",
+    "stars",
+    "star rating",
+    "svg"
+  ],
+  "author": "Rubén Vara <hey@rubenvara.io> (https://rubenvara.io)",
+  "license": "MIT",
+  "homepage": "https://github.com/rubenvar/react-star-rating#readme",
+  "bugs": {
+    "url": "https://github.com/rubenvar/react-star-rating/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubenvar/react-star-rating.git"
+  },
+  "scripts": {
+    "build": "babel src -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.10",
+    "@babel/preset-react": "^7.12.10",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
